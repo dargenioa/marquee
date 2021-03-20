@@ -1,0 +1,13 @@
+.Industries-Services {
+  font-family: HelveticaNeue;
+  font-size: 0.875rem;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.86;
+  letter-spacing: normal;
+  color: var(--white);
+}
+.Industries-Services .text-style-1 {
+  color: #ffc004;
+}

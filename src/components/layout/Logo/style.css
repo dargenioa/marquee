@@ -1,0 +1,14 @@
+.Slide-One {
+  width: 90rem;
+  height: 50.625rem;
+  padding: 1.179rem 8.125rem 0 7.938rem;
+  object-fit: contain;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.abc {
+    width: 4.728rem;
+    height: 2.363rem;
+    margin: 0 44.043rem .958rem 0.166rem;
+    object-fit: contain;
+  }
