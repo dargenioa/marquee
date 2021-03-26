@@ -19,12 +19,6 @@ function Services() {
     getData();
   }, []);
 
-  const setBackground = () => {
-    if (window.location.pathname === "/services") {
-      console.log(data);
-    }
-  };
-
   const getData = () => {
     fetch("./data.json", {
       headers: {

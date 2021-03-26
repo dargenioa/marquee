@@ -9,7 +9,6 @@ return(
               <Link
                 to="/industries"
                 className={
-                  window.location.pathname === "/" ||
                   window.location.pathname === "/industries"
                     ? "Industries-Services text-style-1"
                     : "Industries-Services"
@@ -31,7 +30,6 @@ return(
               <Link
                 to="/about"
                 className={
-                  window.location.pathname === "/" ||
                   window.location.pathname === "/about"
                   ? "Industries-Services text-style-1"
                   : "Industries-Services"
