@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/marquee/static/css/main.28cbdfb3.chunk.css",
+    "main.js": "/marquee/static/js/main.72035bea.chunk.js",
+    "main.js.map": "/marquee/static/js/main.72035bea.chunk.js.map",
+    "runtime-main.js": "/marquee/static/js/runtime-main.19302440.js",
+    "runtime-main.js.map": "/marquee/static/js/runtime-main.19302440.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/marquee/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.89d83661.chunk.js": "/marquee/static/js/2.89d83661.chunk.js",
+    "static/js/2.89d83661.chunk.js.map": "/marquee/static/js/2.89d83661.chunk.js.map",
+    "static/js/3.88c3c740.chunk.js": "/marquee/static/js/3.88c3c740.chunk.js",
+    "static/js/3.88c3c740.chunk.js.map": "/marquee/static/js/3.88c3c740.chunk.js.map",
+    "index.html": "/marquee/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/marquee/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.28cbdfb3.chunk.css.map": "/marquee/static/css/main.28cbdfb3.chunk.css.map",
+    "static/js/2.89d83661.chunk.js.LICENSE.txt": "/marquee/static/js/2.89d83661.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19302440.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.89d83661.chunk.js",
+    "static/css/main.28cbdfb3.chunk.css",
+    "static/js/main.72035bea.chunk.js"
+  ]
+}
