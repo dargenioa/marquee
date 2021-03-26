@@ -2,7 +2,11 @@ function BackgroundImage(props) {
   return (
       <div
       className="Slide-one"
-      style={{backgroundImage: 'url("https://mdbootstrap.com/docs/react/css/background-image/")'}}
+      style={{
+        backgroundAttachment: "fixed",
+        backgroundSize: "cover",
+        backgroundImage: props.image
+      }}
       >
       </div>
   );

@@ -1,0 +1,35 @@
+.Bg {
+    width: 73.75rem;
+    height: 11.188rem;
+    margin: 2.938rem 0 0 0.188rem;
+    padding: 4.625rem 8.5rem 4.563rem 4.813rem;
+    background-color: var(--white);
+  }
+
+  .Nemo-enim-ipsam-volu {
+    width: 100%;
+    height: 2rem;
+    margin: 0 13.75rem 0 0;
+    font-family: HelveticaNeue;
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: -0.63px;
+    color: var(--black);
+  }
+
+  .LETS-TALK {
+    width: 16.454rem;
+    height: 1.25rem;
+    margin: 0.063rem 0;
+    font-family: HelveticaNeue;
+    font-size: 0.688rem;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.82;
+    letter-spacing: 1px;
+    color: var(--black);
+  }

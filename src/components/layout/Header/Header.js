@@ -7,7 +7,7 @@ import Menu from "../Menu/Menu";
 
 function Header(){
     return(
-        <Container fluid="xs">
+        <Container>
             <Row>
                 <Col
                  md={2}
